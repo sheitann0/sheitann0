@@ -1,7 +1,5 @@
 <h1>Hey, I'm Mihai Dragomir!</h1>
 
-I'm a Canadian software developer based out of Calgary, Alberta.<br>
-You can get in contact with me, or check out some of my favourite public projects below!<br><br>
 
 <p>
   <a href="https://sheitann.tech/">
